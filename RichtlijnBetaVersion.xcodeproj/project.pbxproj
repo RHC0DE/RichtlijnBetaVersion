@@ -11,6 +11,33 @@
 		3100BA12287ECE0000E9CA6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA11287ECE0000E9CA6C /* ContentView.swift */; };
 		3100BA14287ECE0100E9CA6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3100BA13287ECE0100E9CA6C /* Assets.xcassets */; };
 		3100BA17287ECE0100E9CA6C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3100BA16287ECE0100E9CA6C /* Preview Assets.xcassets */; };
+		3100BA20287ED33300E9CA6C /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA1F287ED33300E9CA6C /* SplashScreenView.swift */; };
+		3100BA23287F4E9900E9CA6C /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA22287F4E9900E9CA6C /* WelcomeView.swift */; };
+		3100BA282880323E00E9CA6C /* Richtlijn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA272880323E00E9CA6C /* Richtlijn.swift */; };
+		3100BA2A288032C700E9CA6C /* RichtlijnList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA29288032C700E9CA6C /* RichtlijnList.swift */; };
+		3100BA2C28829DC400E9CA6C /* ChoiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA2B28829DC400E9CA6C /* ChoiceView.swift */; };
+		3100BA302883523600E9CA6C /* RichtlijnDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA2F2883523600E9CA6C /* RichtlijnDetailView.swift */; };
+		3100BA322883655400E9CA6C /* RichtlijnListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA312883655400E9CA6C /* RichtlijnListView.swift */; };
+		3100BA35288378DF00E9CA6C /* RichtlijnViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3100BA34288378DF00E9CA6C /* RichtlijnViewModel.swift */; };
+		31764BE52896E49D00488DAA /* LeftArrowBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BE42896E49D00488DAA /* LeftArrowBtn.swift */; };
+		31764BE72896E59700488DAA /* systemBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BE62896E59700488DAA /* systemBackground.swift */; };
+		31764BE92896F2D900488DAA /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BE82896F2D900488DAA /* Question.swift */; };
+		31764BEB2896F71B00488DAA /* ThumbsDownBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BEA2896F71B00488DAA /* ThumbsDownBtn.swift */; };
+		31764BED2898833F00488DAA /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BEC2898833F00488DAA /* QuestionView.swift */; };
+		31764BEF289B328600488DAA /* RichtlijnMatchParOrProf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31764BEE289B328600488DAA /* RichtlijnMatchParOrProf.swift */; };
+		31767DA8289D89EE0017B9AE /* SamenwerkingsRelatieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31767DA7289D89EE0017B9AE /* SamenwerkingsRelatieView.swift */; };
+		31767DAC289EE1AA0017B9AE /* OnBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31767DAB289EE1AA0017B9AE /* OnBoardView.swift */; };
+		31767DAE289EF5BF0017B9AE /* ButtonUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31767DAD289EF5BF0017B9AE /* ButtonUI.swift */; };
+		31D40660288E832500F60FFA /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D4065F288E832500F60FFA /* StartView.swift */; };
+		31D4067B28900FF400F60FFA /* SamenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D4067A28900FF400F60FFA /* SamenView.swift */; };
+		31D4068528918B5400F60FFA /* RichtlijnMatchOuderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D4068428918B5400F60FFA /* RichtlijnMatchOuderView.swift */; };
+		31D406B62892A08400F60FFA /* RichtlijnMatchProfessionalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31D406B52892A08400F60FFA /* RichtlijnMatchProfessionalView.swift */; };
+		31FBD464289FD0380096E21D /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD463289FD0380096E21D /* Colors.swift */; };
+		31FBD466289FD08D0096E21D /* Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD465289FD08D0096E21D /* Strings.swift */; };
+		31FBD468289FFC110096E21D /* ThumbsUpBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD467289FFC110096E21D /* ThumbsUpBtn.swift */; };
+		31FBD46A28A00F630096E21D /* Questionmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD46928A00F630096E21D /* Questionmark.swift */; };
+		31FBD46D28A06BA30096E21D /* AandachtspuntenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD46C28A06BA30096E21D /* AandachtspuntenView.swift */; };
+		31FBD46F28A06BBB0096E21D /* EersteStapGesprekView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FBD46E28A06BBB0096E21D /* EersteStapGesprekView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +46,34 @@
 		3100BA11287ECE0000E9CA6C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3100BA13287ECE0100E9CA6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3100BA16287ECE0100E9CA6C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3100BA1F287ED33300E9CA6C /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		3100BA22287F4E9900E9CA6C /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		3100BA272880323E00E9CA6C /* Richtlijn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Richtlijn.swift; sourceTree = "<group>"; };
+		3100BA29288032C700E9CA6C /* RichtlijnList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnList.swift; sourceTree = "<group>"; };
+		3100BA2B28829DC400E9CA6C /* ChoiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceView.swift; sourceTree = "<group>"; };
+		3100BA2F2883523600E9CA6C /* RichtlijnDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnDetailView.swift; sourceTree = "<group>"; };
+		3100BA312883655400E9CA6C /* RichtlijnListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnListView.swift; sourceTree = "<group>"; };
+		3100BA34288378DF00E9CA6C /* RichtlijnViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnViewModel.swift; sourceTree = "<group>"; };
+		31764BE42896E49D00488DAA /* LeftArrowBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftArrowBtn.swift; sourceTree = "<group>"; };
+		31764BE62896E59700488DAA /* systemBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = systemBackground.swift; sourceTree = "<group>"; };
+		31764BE82896F2D900488DAA /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		31764BEA2896F71B00488DAA /* ThumbsDownBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThumbsDownBtn.swift; sourceTree = "<group>"; };
+		31764BEC2898833F00488DAA /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		31764BEE289B328600488DAA /* RichtlijnMatchParOrProf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnMatchParOrProf.swift; sourceTree = "<group>"; };
+		31767DA7289D89EE0017B9AE /* SamenwerkingsRelatieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SamenwerkingsRelatieView.swift; sourceTree = "<group>"; };
+		31767DAB289EE1AA0017B9AE /* OnBoardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardView.swift; sourceTree = "<group>"; };
+		31767DAD289EF5BF0017B9AE /* ButtonUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonUI.swift; sourceTree = "<group>"; };
+		31D4065F288E832500F60FFA /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		31D4067A28900FF400F60FFA /* SamenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SamenView.swift; sourceTree = "<group>"; };
+		31D4068428918B5400F60FFA /* RichtlijnMatchOuderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnMatchOuderView.swift; sourceTree = "<group>"; };
+		31D406B52892A08400F60FFA /* RichtlijnMatchProfessionalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichtlijnMatchProfessionalView.swift; sourceTree = "<group>"; };
+		31FBD463289FD0380096E21D /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		31FBD465289FD08D0096E21D /* Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
+		31FBD467289FFC110096E21D /* ThumbsUpBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThumbsUpBtn.swift; sourceTree = "<group>"; };
+		31FBD46928A00F630096E21D /* Questionmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questionmark.swift; sourceTree = "<group>"; };
+		31FBD46C28A06BA30096E21D /* AandachtspuntenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AandachtspuntenView.swift; sourceTree = "<group>"; };
+		31FBD46E28A06BBB0096E21D /* EersteStapGesprekView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EersteStapGesprekView.swift; sourceTree = "<group>"; };
+		31FBD47028A130A90096E21D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +90,7 @@
 		3100BA03287ECE0000E9CA6C = {
 			isa = PBXGroup;
 			children = (
+				31FBD47028A130A90096E21D /* README.md */,
 				3100BA0E287ECE0000E9CA6C /* RichtlijnBetaVersion */,
 				3100BA0D287ECE0000E9CA6C /* Products */,
 			);
@@ -51,8 +107,14 @@
 		3100BA0E287ECE0000E9CA6C /* RichtlijnBetaVersion */ = {
 			isa = PBXGroup;
 			children = (
+				31764BDD28957D2B00488DAA /* Components */,
+				3100BA262880323500E9CA6C /* Model */,
+				3100BA1D287ED31A00E9CA6C /* UI */,
+				3100BA332883788000E9CA6C /* ViewModel */,
 				3100BA0F287ECE0000E9CA6C /* RichtlijnBetaVersionApp.swift */,
 				3100BA11287ECE0000E9CA6C /* ContentView.swift */,
+				31FBD463289FD0380096E21D /* Colors.swift */,
+				31FBD465289FD08D0096E21D /* Strings.swift */,
 				3100BA13287ECE0100E9CA6C /* Assets.xcassets */,
 				3100BA15287ECE0100E9CA6C /* Preview Content */,
 			);
@@ -65,6 +127,75 @@
 				3100BA16287ECE0100E9CA6C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3100BA1D287ED31A00E9CA6C /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				31FBD46B28A06B880096E21D /* Popups */,
+				31D40661288E8C4D00F60FFA /* Questions */,
+				3100BA2B28829DC400E9CA6C /* ChoiceView.swift */,
+				31767DAB289EE1AA0017B9AE /* OnBoardView.swift */,
+				3100BA2F2883523600E9CA6C /* RichtlijnDetailView.swift */,
+				3100BA312883655400E9CA6C /* RichtlijnListView.swift */,
+				31D4068428918B5400F60FFA /* RichtlijnMatchOuderView.swift */,
+				31D406B52892A08400F60FFA /* RichtlijnMatchProfessionalView.swift */,
+				31764BEE289B328600488DAA /* RichtlijnMatchParOrProf.swift */,
+				3100BA1F287ED33300E9CA6C /* SplashScreenView.swift */,
+				31D4065F288E832500F60FFA /* StartView.swift */,
+				3100BA22287F4E9900E9CA6C /* WelcomeView.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		3100BA262880323500E9CA6C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				31764BE82896F2D900488DAA /* Question.swift */,
+				3100BA272880323E00E9CA6C /* Richtlijn.swift */,
+				3100BA29288032C700E9CA6C /* RichtlijnList.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3100BA332883788000E9CA6C /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				3100BA34288378DF00E9CA6C /* RichtlijnViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		31764BDD28957D2B00488DAA /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				31764BE42896E49D00488DAA /* LeftArrowBtn.swift */,
+				31764BE62896E59700488DAA /* systemBackground.swift */,
+				31FBD46928A00F630096E21D /* Questionmark.swift */,
+				31764BEA2896F71B00488DAA /* ThumbsDownBtn.swift */,
+				31FBD467289FFC110096E21D /* ThumbsUpBtn.swift */,
+				31767DAD289EF5BF0017B9AE /* ButtonUI.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		31D40661288E8C4D00F60FFA /* Questions */ = {
+			isa = PBXGroup;
+			children = (
+				31764BEC2898833F00488DAA /* QuestionView.swift */,
+				31D4067A28900FF400F60FFA /* SamenView.swift */,
+			);
+			path = Questions;
+			sourceTree = "<group>";
+		};
+		31FBD46B28A06B880096E21D /* Popups */ = {
+			isa = PBXGroup;
+			children = (
+				31767DA7289D89EE0017B9AE /* SamenwerkingsRelatieView.swift */,
+				31FBD46C28A06BA30096E21D /* AandachtspuntenView.swift */,
+				31FBD46E28A06BBB0096E21D /* EersteStapGesprekView.swift */,
+			);
+			path = Popups;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +268,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31FBD46D28A06BA30096E21D /* AandachtspuntenView.swift in Sources */,
+				31FBD468289FFC110096E21D /* ThumbsUpBtn.swift in Sources */,
+				3100BA282880323E00E9CA6C /* Richtlijn.swift in Sources */,
+				31FBD464289FD0380096E21D /* Colors.swift in Sources */,
+				31767DAE289EF5BF0017B9AE /* ButtonUI.swift in Sources */,
+				31764BE92896F2D900488DAA /* Question.swift in Sources */,
+				31D40660288E832500F60FFA /* StartView.swift in Sources */,
+				31767DAC289EE1AA0017B9AE /* OnBoardView.swift in Sources */,
 				3100BA12287ECE0000E9CA6C /* ContentView.swift in Sources */,
+				31FBD466289FD08D0096E21D /* Strings.swift in Sources */,
+				31767DA8289D89EE0017B9AE /* SamenwerkingsRelatieView.swift in Sources */,
+				31764BEB2896F71B00488DAA /* ThumbsDownBtn.swift in Sources */,
+				3100BA322883655400E9CA6C /* RichtlijnListView.swift in Sources */,
 				3100BA10287ECE0000E9CA6C /* RichtlijnBetaVersionApp.swift in Sources */,
+				31764BED2898833F00488DAA /* QuestionView.swift in Sources */,
+				3100BA302883523600E9CA6C /* RichtlijnDetailView.swift in Sources */,
+				31D4068528918B5400F60FFA /* RichtlijnMatchOuderView.swift in Sources */,
+				3100BA2C28829DC400E9CA6C /* ChoiceView.swift in Sources */,
+				3100BA23287F4E9900E9CA6C /* WelcomeView.swift in Sources */,
+				31D4067B28900FF400F60FFA /* SamenView.swift in Sources */,
+				31FBD46A28A00F630096E21D /* Questionmark.swift in Sources */,
+				31764BE72896E59700488DAA /* systemBackground.swift in Sources */,
+				31FBD46F28A06BBB0096E21D /* EersteStapGesprekView.swift in Sources */,
+				3100BA20287ED33300E9CA6C /* SplashScreenView.swift in Sources */,
+				31D406B62892A08400F60FFA /* RichtlijnMatchProfessionalView.swift in Sources */,
+				3100BA2A288032C700E9CA6C /* RichtlijnList.swift in Sources */,
+				31764BEF289B328600488DAA /* RichtlijnMatchParOrProf.swift in Sources */,
+				3100BA35288378DF00E9CA6C /* RichtlijnViewModel.swift in Sources */,
+				31764BE52896E49D00488DAA /* LeftArrowBtn.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +433,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +463,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -9,3 +9,4 @@ The Beta version of the app will be presented on Wednesday 11 August to several 
 -    The option to use the app in more languages than just Dutch.
 -    The option to save a selected Guideline in case the user needs it more than one time.
 
+Simulator Screen Recording - iPhone 11 Pro - 2022-08-08 at 14.01.51.mp4
